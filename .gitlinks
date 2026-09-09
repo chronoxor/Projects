@@ -1,17 +1,17 @@
 # Projects
 CppBenchmark CppBenchmark https://github.com/chronoxor/CppBenchmark.git main
-CppCommon CppCommon https://github.com/chronoxor/CppCommon.git master
-CppLogging CppLogging https://github.com/chronoxor/CppLogging.git master
-CppSecurity CppSecurity https://github.com/chronoxor/CppSecurity.git master
-CppSerialization CppSerialization https://github.com/chronoxor/CppSerialization.git master
-CppServer CppServer https://github.com/chronoxor/CppServer.git master
-CppTemplate CppTemplate https://github.com/chronoxor/CppTemplate.git master
-CppTrader CppTrader https://github.com/chronoxor/CppTrader.git master
-CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git master
-FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git master
-NetCoreServer NetCoreServer https://github.com/chronoxor/NetCoreServer.git master
-PrimeTrader PrimeTrader https://github.com/chronoxor/PrimeTrader.git master
-ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
+CppCommon CppCommon https://github.com/chronoxor/CppCommon.git main
+CppLogging CppLogging https://github.com/chronoxor/CppLogging.git main
+CppSecurity CppSecurity https://github.com/chronoxor/CppSecurity.git main
+CppSerialization CppSerialization https://github.com/chronoxor/CppSerialization.git main
+CppServer CppServer https://github.com/chronoxor/CppServer.git main
+CppTemplate CppTemplate https://github.com/chronoxor/CppTemplate.git main
+CppTrader CppTrader https://github.com/chronoxor/CppTrader.git main
+CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git main
+FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git main
+NetCoreServer NetCoreServer https://github.com/chronoxor/NetCoreServer.git main
+PrimeTrader PrimeTrader https://github.com/chronoxor/PrimeTrader.git main
+ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git main
 
 # Modules
 Argon2 modules/Argon2 https://github.com/P-H-C/phc-winner-argon2.git master
