@@ -8,7 +8,7 @@ Projects repository and update script are used to prepare a local workspace.
 # Requirements
 * Linux
 * MacOS
-* Windows 10
+* Windows
 * [git](https://git-scm.com)
 * [gil](https://github.com/chronoxor/gil.git)
 
