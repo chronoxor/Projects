@@ -29,7 +29,7 @@ OpenSSL modules/OpenSSL https://github.com/chronoxor/OpenSSL.git main
 protobuf modules/protobuf https://github.com/google/protobuf.git main
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
 SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
-swagger-ui modules/swagger-ui https://github.com/swagger-api/swagger-ui.git master
+swagger-ui modules/swagger-ui https://github.com/swagger-api/swagger-ui.git main
 tomlplusplus modules/tomlplusplus https://github.com/marzer/tomlplusplus.git master
 vld modules/vld https://github.com/chronoxor/vld.git master
 zlib modules/zlib https://github.com/madler/zlib.git master
